@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo Hello world
-echo Bonjour
+echo Bonjour $1
